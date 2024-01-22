@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NextD00R
 - 👀 I’m interested in learning programation
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me 
 - 😄 Pronouns: He,his
